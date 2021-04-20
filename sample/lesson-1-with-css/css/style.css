@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+/* pタグの色を変える */
+p {
+  color: red;
+  /* colorは16進数でも表現できる */
+  /* https://www.colordic.org */
+}
+
+li {
+  color: red;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+img {
+  width: 150px;
+  height: auto;
+  /* height: 200px; */
+}
+
+.green {
+  color: green;
+}
+
+#heading {
+  background-color: #ddd;
+}
